@@ -16,8 +16,3 @@ With Meme Me you can turn your images into memes conveniently. The app lets you 
 ## Frameworks Used
 1. [Foundation](https://developer.apple.com/documentation/foundation)
 2. [UIKit](https://developer.apple.com/documentation/uikit)
-
-## How to Build
-1. Download or clone the project.
-2. Open `MemeMe.xcodeproj` file in Xcode.
-3. Build & Run the app.

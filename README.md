@@ -6,3 +6,4 @@ For more details about a specific project, check its README inside the project's
 | - | --------------- | -------------- | ------- | --------------- |
 | 1 | Pitch Perfect   | Intro to iOS App Development with Swift | ![PitchPerfect.gif](PitchPerfect/Screenshots/preview.gif) | iOS app for recording voice and playing it back using a different tone. |
 | 2 | MemeMe          | UIKit Fundamentals | ![MemeMe.gif](MemeMe/Screenshots/preview.gif) | iOS app for creating Memes. |
+| 3 | On the Map      | iOS Networking with Swift | ![OnTheMap.gif](OnTheMap/Screenshots/preview.gif) | iOS app for finding Udacity students all around the world |
