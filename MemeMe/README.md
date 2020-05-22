@@ -6,12 +6,12 @@ With Meme Me you can turn your images into memes conveniently. The app lets you 
 #### Meme Collection
 | Empty Screen | Collection | Table |
 | ------------ | ---------- | ----- |
-| <img src="Screenshots/home-list-empty.png" alt="HomeListEmpty.png" width="300" height="599"> | <img src="Screenshots/home-grid.png" alt="HomeGridFilled.png" width="300" height="599"> | <img src="Screenshots/home-list.png" alt="HomeListFilled.png" width="300" height="599"> |
+| <img src="Screenshots/home-list-empty.png" alt="HomeListEmpty.png" width="200" height="400"> | <img src="Screenshots/home-grid.png" alt="HomeGridFilled.png" width="200" height="400"> | <img src="Screenshots/home-list.png" alt="HomeListFilled.png" width="200" height="400"> |
 
 #### Meme Editor
 | Empty | Editing |
 | ----- | ------- |
-| <img src="Screenshots/meme-editor-empty.png" alt="MemeEditorEmpty.png" width="300" height="599"> | <img src="Screenshots/meme-editor.png" alt="MemeEditorFilled.png" width="300" height="599"> |
+| <img src="Screenshots/meme-editor-empty.png" alt="MemeEditorEmpty.png" width="200" height="400"> | <img src="Screenshots/meme-editor.png" alt="MemeEditorFilled.png" width="200" height="400"> |
 
 ## Frameworks Used
 1. [Foundation](https://developer.apple.com/documentation/foundation)
