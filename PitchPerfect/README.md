@@ -4,7 +4,7 @@ Pitch Perfect is an app that record's your voice and plays it back in different 
 ## Screenshots
 | Home Screen: Idle | Home Screen: Recording | Play Sounds Screen |
 | ----------------- | ---------------------- | ------------------ |
-| ![HomeScreen-Idle.png](Screenshots/homescreen-idle.png) | ![HomeScreen-Recording.png](Screenshots/homescreen-recording.png) | ![PlaybackScreen.png](Screenshots/playbackscreen.png)
+| <img src="Screenshots/homescreen-idle.png" alt="HomeScreen-Idle.png" width="200" height="400"> | <img src="Screenshots/homescreen-recording.png" alt="HomeScreen-Recording.png" width="200" height="400"> | <img src="Screenshots/playbackscreen.png" alt="PlaybackScreen.png" width="200" height="400"> |
 
 ## Frameworks Used
 1. [Foundation](https://developer.apple.com/documentation/foundation)
