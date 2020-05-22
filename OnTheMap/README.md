@@ -10,7 +10,7 @@ If the posted information is a valid URL the app let's you open it in Safari as 
 | <img src="Screenshots/login.png" alt="login.png" width="200" height="400"> | <img src="Screenshots/map.png" alt="map.png" width="200" height="400"> | <img src="Screenshots/list.png" alt="list.png" width="200" height="400">
 
 | Add Pin | Finalize Pin |
-| ------- | ------- | ----------- |
+| ------- | ----------- |
 | <img src="Screenshots/add-location.png" alt="add-location.png" width="200" height="400"> | <img src="Screenshots/finalize-location.png" alt="finalize-location.png" width="200" height="400"> |
 
 ## Frameworks Used
