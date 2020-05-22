@@ -6,12 +6,12 @@ With Meme Me you can turn your images into memes conveniently. The app lets you 
 #### Meme Collection
 | Empty Screen | Collection | Table |
 | ------------ | ---------- | ----- |
-| ![HomeListEmpty.png](Screenshots/home-list-empty.png) | ![HomeGridFilled.png](Screenshots/home-grid.png) | ![HomeListFilled.png](Screenshots/home-list.png) |
+| <img src="Screenshots/home-list-empty.png" alt="HomeListEmpty.png" width="300" height="599"> | <img src="Screenshots/home-grid.png" alt="HomeGridFilled.png" width="300" height="599"> | <img src="Screenshots/home-list.png" alt="HomeListFilled.png" width="300" height="599"> |
 
 #### Meme Editor
 | Empty | Editing |
 | ----- | ------- |
-| ![MemeEditorEmpty.png](Screenshots/meme-editor-empty.png) | ![MemeEditorFilled.png](Screenshots/meme-editor.png) |
+| <img src="Screenshots/meme-editor-empty.png" alt="MemeEditorEmpty.png" width="300" height="599"> | <img src="Screenshots/meme-editor.png" alt="MemeEditorFilled.png" width="300" height="599"> |
 
 ## Frameworks Used
 1. [Foundation](https://developer.apple.com/documentation/foundation)
